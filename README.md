@@ -1,7 +1,7 @@
 # Readwise Bear Sync
 A python script to sync Readwise to Bear. 
 
-*This is my first public Github repository. I’ve been writing Python now for a few years, however, am completely self thought and have no programming background. Everything I’ve written until now were private scripts, and not optimised for public. I’m doing my best.*
+*This is my first public Github repository. I’ve been writing Python now for a few years, however, I am completely self thought and have no programming background. Everything I’ve written until now were private scripts and not optimised for public. I’m doing my best.*
 
 ### Resources;
 - [Bear X-callback-url Scheme documentation](https://bear.app/faq/X-callback-url%20Scheme%20documentation/ "")
